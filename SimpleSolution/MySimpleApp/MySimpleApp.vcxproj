@@ -147,11 +147,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AnotherClass.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="Tmp.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AnotherClass.cpp" />
     <ClCompile Include="MySimpleApp.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
