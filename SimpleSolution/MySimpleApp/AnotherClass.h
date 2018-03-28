@@ -5,4 +5,5 @@ public:
 	AnotherClass();
 	~AnotherClass();
 };
+//comment in another class
 
