@@ -1,6 +1,10 @@
 #pragma once
 class AnotherClass
 {
+	int a;
+	int b;
+	int c;
+	AnotherClass(const AnotherClass& other);
 	int x;
 	int z;
 public:
