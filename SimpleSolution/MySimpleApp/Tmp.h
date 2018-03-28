@@ -6,3 +6,4 @@ public:
 	~Tmp();
 };
 
+//comment
